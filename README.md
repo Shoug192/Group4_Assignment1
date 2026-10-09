@@ -11,9 +11,10 @@ The goal of this assignment is to compare **Pandas** with another Python data-pr
 | Name | Student ID | Role |
 |---|---|---|
 | Shoug Bandar AlMaymuni | 2250004055 | Leader |
-| Member 2 | XXXXXXXX | Member |
-| Member 3 | XXXXXXXX | Member |
-| Member 4 | XXXXXXXX | Member |
+| Batool Ali AlMohammed | 2250004622 | Member |
+| Raghad Saeed Alomari | 2250006575 | Member |
+| Fatimah Hawas Alshamri | 2250000230 | Member |
+| Layan Fahad Alwohaibi | 2250004890 | Member |
 
 
 > Remove any unused member row if your group has fewer than 6 members.
